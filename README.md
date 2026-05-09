@@ -200,11 +200,6 @@ The server uses Socket.IO for real-time chat. Events handled in `src/utils/socke
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
 
 ---
 
